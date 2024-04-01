@@ -1,6 +1,6 @@
 # VTH-VPG
 ========
-This is the official implementation of [Video Paragraph Grounding, Multi-Dimensional Contexts, Weakly Supervision, Visual-Textual Harmony.].
+This is the official implementation of [Visual-Textual Harmony: Multi-Dimensional Congruity for Weakly Supervised Video Paragraph Grounding].
 
 
 

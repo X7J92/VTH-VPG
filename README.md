@@ -9,4 +9,4 @@ This is the official implementation of [Video Paragraph Grounding, Multi-Dimensi
 
 
 ## Acknowledgement
-Part of our code is based on the previous works [2D-TAN]https://github.com/microsoft/VideoX/tree/master/2D-TAN and [TransVg](https://github.com/djiajunustc/TransVG).
+Part of our code is based on the previous works [2D-TAN]https://github.com/microsoft/VideoX/tree/master/2D-TAN and https://github.com/baopj/DenseEventsGrounding.

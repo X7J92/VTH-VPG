@@ -20,8 +20,6 @@ Use the following commands for training:
 cd moment_localization && export CUDA_VISIBLE_DEVICES=0
 python dense_train.py --verbose --cfg ../experiments/dense_activitynet/acnet.yaml
 ```
-You may get better results than that reported in our paper thanks to the code updates.
-
 
 
 

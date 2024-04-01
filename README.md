@@ -3,11 +3,11 @@
 This is the official implementation of [Visual-Textual Harmony: Multi-Dimensional Congruity for Weakly Supervised Video Paragraph Grounding].
 
 <p align="center">
-  <img src="docs/1.png" width="75%"/>
+  <img src="1.png" width="75%"/>
 </p>
 
 <p align="center">
-  <img src="docs/4.png" width="75%"/>
+  <img src="4.png" width="75%"/>
 </p>
 
 ## Dataset
